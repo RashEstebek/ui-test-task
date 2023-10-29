@@ -1,0 +1,33 @@
+/* Base styles */
+
+* {
+    padding: 0px;
+    margin: 0px;
+    border: none;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+
+
+/* ClassName styles */
+
+.d-block {
+    height: 800px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.jc-space-between {
+    justify-content: space-between;
+}
+
+.align-items-center {
+    align-items: center;
+}

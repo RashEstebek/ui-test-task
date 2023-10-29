@@ -1,0 +1,67 @@
+.section-movie-img {
+    margin-right: 5%;
+}
+
+.section-movie-img img {
+    width: 325px;
+}
+
+.top-hr {
+    margin: 0 0 50px 0;
+    padding: 0;
+    height: 0;
+    border-width: 0 0 5px;
+    border-style: solid;
+    border-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2 1" width="8" height="4"><circle fill="orange" cx="1" cy="0.5" r="0.5"></circle></svg>') 0 0 100% repeat;
+    background-position: 50%;
+    color: orange;
+}
+
+.movie-info-top {
+    font-family: "Verdana";
+}
+
+.movie-info-top-hr {
+
+    border-width: 2px;
+
+    color: #ff0000;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.film_genre {
+    margin-bottom: 20px;
+}
+
+ul, li {
+    list-style: disc;
+}
+
+li::marker {
+    color: brown;
+}
+
+.movie-info-bottom {
+    font-size: 18px;
+    font-family: Bahnschrift;
+}
+
+.info-title {
+    margin-bottom: 15px;
+    width: 100px;
+}
+
+.rating {
+    margin-top: 10px;
+}
+
+.film_description {
+    font-size: 20px;
+}
+
+.youtube-video {
+    display: block;
+}

@@ -1,0 +1,36 @@
+/* Nav */
+
+.nav {
+    padding: 30px 40px;
+}
+
+.nav-title-and-logo {
+    width: 25%;
+}
+
+.nav-title {
+    display: block;
+    font-size: 28px;
+    margin-right: 5%;
+}
+
+.nav-logo {
+    display: block;
+    height: 50px;
+}
+
+.nav-list a {
+    margin-left: 40px;
+    text-decoration: none;
+    color: black;
+}
+
+.nav-login {
+    height: 25px;
+}
+
+span {
+    color: orange;
+    font-style: italic;
+    font-weight: 800;
+}
